@@ -1,0 +1,39 @@
+<!-- https://www.npmjs.com/package/ngx-pagination?fbclid=IwAR1pkSoqqeNmrbijNwVyEhzL4861ED7Rdegnx6oFepQaEawKduOvyjUEHG8 -->
+<div class="container">
+  <br><br>
+  <div id="dataTable">
+    <nav class="navbar">
+      <input class="form-control" type="text" name="search by name " [(ngModel)]="UserFilter"
+        placeholder="search by name ">
+    </nav>
+    <table>
+      <thead>
+        <tr id="head" style="background-color: rgb(2, 2, 95)">
+          <th>#</th>
+          <th scope="col">Name
+
+          </th>
+          <th scope="col">Phone</th>
+          <th scope="col">Status</th>
+          <th scope="col">Email</th>
+
+
+        </tr>
+      </thead>
+      <tbody>
+        <tr
+          *ngFor="let user of ListOfUserToShow| paginate: { itemsPerPage: 4, currentPage: p}|UserFilter:UserFilter; let i = index">
+          <td>{{i}}</td>
+          <td>{{user.Name}}</td>
+          <td>{{user.Phone}}</td>
+          <td>{{user.Status}}</td>
+          <td>{{user.Email}}</td>
+        </tr>
+      </tbody>
+    </table>
+    <br><br>
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    <br><br>
+  </div>
+  <button class="btn btn-primary" (click)="goBack()">Back</button><br><br>
+</div>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="17b3e9cd105e35d26997ab3c7fb30b0c0d038fbf" datatype="html">
+        <source>
+  Welcome
+</source>
+    <target>
+  
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="myName" datatype="html">
+  <target>
+   بسمة أحمد ذكي
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+
+
+           
+    <trans-unit id="Update" datatype="html">
+  <target>
+  تعديل
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/ShowUSers/show-users.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+
+               <trans-unit id="Delete" datatype="html">
+  <target>
+  حذف
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/ShowUSers/show-users.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+
+               <trans-unit id="Add" datatype="html">
+  <target>
+اضف مستخدم جديد 
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/ShowUSers/show-users.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+
+                <trans-unit id="AddNewUser" datatype="html">
+  <target>
+حفظ
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/AddUser/add-user.component.html</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+                      <trans-unit id="back" datatype="html">
+  <target>
+الخلف
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/AddUser/add-user.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+
+      <!-- login -->
+          <trans-unit id="login" datatype="html">
+  <target>
+  تسجيل دخول
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/Header/header.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+
+      <!-- login -->
+
+<!-- Welcome -->
+        <trans-unit id="Welcome" datatype="html">
+  <target>
+   مرحبا بك ف موقعنا 
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit> 
+<!-- Welcome -->
+
+<!-- Services -->
+        <trans-unit id="Services" datatype="html">
+  <target>
+   موقعنا يقدم العديد من الخدمات  ::
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit> 
+<!-- Services -->
+
+<!-- User -->
+        <trans-unit id="User" datatype="html">
+  <target>
+  خدمات المستخدم 
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit> 
+<!-- USer -->
+
+<!--Admin -->
+        <trans-unit id="Admin" datatype="html">
+  <target>
+  خدمات المسئول 
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit> 
+<!-- Admin -->
+
+<!--And -->
+        <trans-unit id="And" datatype="html">
+  <target>
+  و
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit> 
+<!-- And -->
+    </body>
+  </file>
+</xliff>

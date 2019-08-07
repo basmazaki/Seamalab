@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="17b3e9cd105e35d26997ab3c7fb30b0c0d038fbf" datatype="html">
+        <source>
+  Welcome
+</source>
+     <target>
+  
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="myName" datatype="html">
+        <source>
+  Hello, My name is Basma
+</source>
+ <target>
+ Basma Ahmed Zaki:
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+
+               
+    <trans-unit id="Update" datatype="html">
+  <target>
+  Edit
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/ShowUSers/show-users.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+
+               <trans-unit id="Delete" datatype="html">
+  <target>
+  Delete
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/ShowUSers/show-users.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+
+               <trans-unit id="Add" datatype="html">
+  <target>
+Add New User
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/ShowUSers/show-users.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+
+                <trans-unit id="AddNewUser" datatype="html">
+  <target>
+Save
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/AddUser/add-user.component.html</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+                      <trans-unit id="back" datatype="html">
+  <target>
+Back
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/AddUser/add-user.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+
+       <!-- login -->
+          <trans-unit id="login" datatype="html">
+  <target>
+  LogIn
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/Header/header.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+
+      <!-- login -->
+
+
+
+      
+<!-- Welcome -->
+        <trans-unit id="Welcome" datatype="html">
+  <target>
+ Welcome to my website
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit> 
+<!-- Welcome -->
+
+<!-- Services -->
+        <trans-unit id="Services" datatype="html">
+  <target>
+  my website consist of two parts ,
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit> 
+<!-- Services -->
+
+<!-- User -->
+        <trans-unit id="User" datatype="html">
+  <target>
+  User
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit> 
+<!-- USer -->
+
+<!--Admin -->
+        <trans-unit id="Admin" datatype="html">
+  <target>
+  Admin 
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit> 
+<!-- Admin -->
+
+<!--And -->
+        <trans-unit id="And" datatype="html">
+  <target>
+  And
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/UserDetails/Components/LayoutComponents/DefaultPage/default.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit> 
+<!-- And -->
+    </body>
+  </file>
+</xliff>
